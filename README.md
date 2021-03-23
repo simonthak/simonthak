@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Simon.
-- 👀 I’m interested in tech, startups, traning, and music. 
+- 👋 Hi, I’m Simon
+- 👀 I’m interested in tech, startups and building stuff
 - 🌱 I’m currently learning Javascript, html and CSS 
 - 📫 How to reach me: simonthak@gmail.com
 
