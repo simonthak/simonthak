@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Simon.
 - 👀 I’m interested in tech, startups, traning, and music. 
-- 🌱 I’m currently learning JavaScript, html and CSS 
+- 🌱 I’m currently learning Javascript, html and CSS 
 - 📫 How to reach me: simonthak@gmail.com
 
 <!---
